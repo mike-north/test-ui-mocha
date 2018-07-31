@@ -3,7 +3,7 @@
 const path = require('path');
 
 module.exports = {
-  name: 'test-ui-mocha',
+  name: '@test-ui/mocha',
 
   setupPreprocessorRegistry(type, registry) {
     if (type === 'self') {

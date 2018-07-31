@@ -1,4 +1,4 @@
-import hello from 'test-ui-mocha';
+import hello from '@test-ui/mocha';
 
 QUnit.module('test-ui-mocha tests');
 
