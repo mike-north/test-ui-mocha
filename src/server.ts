@@ -28,7 +28,7 @@ class MochaTestServer extends Server {
     this.log.debug('setting up runner');
     let runData: SuiteRunData;
     let currentSuiteData: SuiteRunData[] = [];
-    let currentTestData: TestRunData | undefined;
+    let currentTestData: TestRunData;
     runner.on('start', () => {
       return this.sendTestData(normalizeRunStartEvent(runner.suite));
     });
