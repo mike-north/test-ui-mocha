@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/mike-north/test-ui-mocha.svg?branch=master)](https://travis-ci.org/mike-north/test-ui-mocha)
 [![Version](https://img.shields.io/npm/v/@test-ui/mocha.svg)](https://www.npmjs.com/package/@test-ui/mocha)
 
-[Test-UI](https://github.com/mike-north/test-ui-core) support for Mocha. 
+[Test-UI](https://github.com/mike-north/test-ui-core) support for [Mocha](https://mochajs.org/). 
 
 ## Setup
 
