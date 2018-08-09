@@ -41,6 +41,10 @@
     "@test-ui/core": "^1.2.7",
     "mocha": "^5.2.0"
   },
+  "plublishConfig": {
+    "access": "public",
+    "tag": "next"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mike-north/test-ui-mocha.git"
