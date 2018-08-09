@@ -31,14 +31,14 @@
     "ember-cli": "^3.1.4",
     "libkit": "^0.6.0",
     "qunit": "^2.4.1",
+    "semantic-release": "^15.9.3",
     "shelljs": "^0.7.8",
-    "tslint": "^5.7.0",
-    "typescript": "^2.4.2",
     "travis-deploy-once": "^5.0.1",
-    "semantic-release": "^15.9.3"
+    "tslint": "^5.7.0",
+    "typescript": "^2.4.2"
   },
   "dependencies": {
-    "@test-ui/core": "^0.1.1",
+    "@test-ui/core": "^1.2.7",
     "mocha": "^5.2.0"
   },
   "repository": {

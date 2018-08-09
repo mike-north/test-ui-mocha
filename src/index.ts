@@ -1,3 +1,2 @@
-export default function hello() {
-  return 'Hello from test-ui-mocha';
-}
+export { default as MochaTestClient } from './client';
+export { default as MochaTestServer } from './server';
