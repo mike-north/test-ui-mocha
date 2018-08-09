@@ -15,8 +15,8 @@ npm install @test-ui/mocha
 
 ### Client-Side
 ```ts
-import {IFrameConnectionClient} from '@test-ui/core';
-import { MochaTestClient } from '../test-ui-mocha/index';
+import { IFrameConnectionClient } from '@test-ui/core';
+import { MochaTestClient } from '@test-ui/mocha';
 
 // Set the client up
 const client = new MochaTestClient({
