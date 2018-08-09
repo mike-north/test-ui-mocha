@@ -1,5 +1,5 @@
 {
-  "name": "test-ui-mocha",
+  "name": "@test-ui/mocha",
   "version": "0.0.0-development",
   "description": "Mocha support for test-ui",
   "main": "dist/commonjs/src/index.js",
