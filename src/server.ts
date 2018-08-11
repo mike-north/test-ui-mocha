@@ -105,9 +105,10 @@ class MochaTestServer extends Server {
           ? moduleFilter
           : toPredicate(moduleFilter);
       const totModules = mocha.suite.suites.length;
-      mocha.suite.suites = mocha.suite.suites.filter(mm =>
-        pred(mochaSuiteToTestSuite(mm))
-      );
+      mocha.suite.suites = mocha.suite.suites.filter(mm => {
+        const converted = mochaSuiteToTestSuite(mm);
+        return pred(converted);
+      });
       const selectedModules = mocha.suite.suites.length;
       this.log
         .txt('Enabled ')
