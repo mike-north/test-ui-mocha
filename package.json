@@ -24,7 +24,7 @@
     "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release"
   },
-  "license": "MIT",
+  "license": "BSD-2-Clause",
   "devDependencies": {
     "@types/mocha": "^5.2.5",
     "@types/qunit": "^2.0.31",
