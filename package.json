@@ -26,16 +26,16 @@
   },
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "@types/mocha": "^5.2.5",
-    "@types/qunit": "^2.0.31",
-    "ember-cli": "^3.1.4",
+    "@types/mocha": "5.2.5",
+    "@types/qunit": "2.5.3",
+    "ember-cli": "3.5.0",
     "libkit": "mike-north/libkit#ts-3",
-    "qunit": "^2.4.1",
-    "semantic-release": "^15.9.6",
-    "shelljs": "^0.8.2",
-    "travis-deploy-once": "^5.0.2",
-    "tslint": "^5.7.0",
-    "typescript": "^3.0.0"
+    "qunit": "2.7.1",
+    "semantic-release": "15.10.6",
+    "shelljs": "0.8.2",
+    "travis-deploy-once": "5.0.9",
+    "tslint": "5.11.0",
+    "typescript": "3.1.1"
   },
   "dependencies": {
     "@test-ui/core": "^1.2.7",
