@@ -34,7 +34,7 @@
     "@types/mocha": "5.2.5",
     "@types/qunit": "2.5.3",
     "ember-cli": "3.6.0",
-    "husky": "1.2.0",
+    "husky": "1.2.1",
     "libkit": "mike-north/libkit#ts-3",
     "qunit": "2.8.0",
     "semantic-release": "15.12.4",
