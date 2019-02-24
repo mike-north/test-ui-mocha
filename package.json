@@ -36,7 +36,7 @@
     "ember-cli": "3.6.0",
     "husky": "1.2.1",
     "libkit": "mike-north/libkit#ts-3",
-    "qunit": "2.9.0",
+    "qunit": "2.9.2",
     "semantic-release": "15.12.4",
     "shelljs": "0.8.3",
     "travis-deploy-once": "5.0.10",
