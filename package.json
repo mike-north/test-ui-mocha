@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@test-ui/core": "^1.2.7",
-    "mocha": "^6.0.0"
+    "mocha": "^9.0.0"
   },
   "plublishConfig": {
     "access": "public",
